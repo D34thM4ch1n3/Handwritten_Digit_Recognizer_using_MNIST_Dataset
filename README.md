@@ -35,7 +35,4 @@ Google Colab (cloud-based notebook environment)
 
 Matplotlib / NumPy for visualization
 
-​
 
-github.com favicon
-Editing
